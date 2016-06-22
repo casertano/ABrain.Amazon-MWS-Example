@@ -1,0 +1,1 @@
+c:\users\giann\documents\visual studio 2015\Projects\ABrain.AmazonMWS Example\ABrain.AmazonMWS Example\bin\Debug\ABrain.AmazonMWS Example.exe.config
